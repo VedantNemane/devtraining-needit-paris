@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="syntax_editor_macro">
+    <syntax_editor_macro action="INSERT_OR_UPDATE">
+        <comments>Debugging</comments>
+        <name>print</name>
+        <sys_class_name>syntax_editor_macro</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-08 10:09:51</sys_created_on>
+        <sys_id>1bfd261cdb5130105d3484d8689619bc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>print</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>syntax_editor_macro_1bfd261cdb5130105d3484d8689619bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-15 15:31:48</sys_updated_on>
+        <text>console.log("&gt;&gt;&gt;&gt; DEBUG: " + variable, "Debugging");</text>
+    </syntax_editor_macro>
+</record_update>
